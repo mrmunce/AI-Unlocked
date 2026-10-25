@@ -1,0 +1,29 @@
+{
+  "name": "AI-Unlocked Source",
+  "identifier": "com.mrmunce.aiunlocked.source",
+  "apps": [
+    {
+      "name": "AI-Unlocked",
+      "bundleIdentifier": "com.mrmunce.AIUnlocked",
+      "developerName": "mrmunce",
+      "subtitle": "AI-Unlocked iOS app",
+      "localizedDescription": "AI-Unlocked. Version and compatibility details should be verified by the app maintainer.",
+      "iconURL": "",
+      "tintColor": "#A11E2A",
+      "category": "other",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-25T00:00:00Z",
+          "downloadURL": "https://raw.githubusercontent.com/mrmunce/AI-Unlocked/main/AIUnlocked.ipa",
+          "size": 0
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": []
+      }
+    }
+  ],
+  "news": []
+}
